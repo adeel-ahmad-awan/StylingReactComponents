@@ -10,4 +10,9 @@ In this application, the following techniques for styling react components are u
 - styled-components (a third-party library)
 - react in build "Css modules"
 
+### Screen shots
+
+![Screen shot 1](screenshots/1.png "Screen shot 1")
+
+![Screen shot with empty input](screenshots/2.png "Screen shot with empty input")
 
